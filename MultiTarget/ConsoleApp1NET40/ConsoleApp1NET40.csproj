@@ -59,9 +59,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LibExemplo\LibExemplo.csproj">
-      <Project>{6c3584dc-df18-4033-86e8-71a99d2de657}</Project>
-      <Name>LibExemplo</Name>
+    <ProjectReference Include="..\LibExample\LibExample.csproj">
+      <Project>{ea7ef287-127a-42df-b5a2-cb0ed36c3f55}</Project>
+      <Name>LibExample</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,9 +4,9 @@ namespace ConsoleApp1NET40
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            LibExemplo.Class1 class1 = new LibExemplo.Class1();
+            LibExample.ClassExample class1 = new LibExample.ClassExample();
             Console.WriteLine(class1.TST);
             Console.ReadKey();
         }
